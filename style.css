@@ -31,8 +31,14 @@ a{
 
 img { 
     border-radius: 50%; 
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
+}
+img {
+  border-radius: 50%;
+}
+img {
+  border: 5px solid #555;
 }
 
 .section-1 p{
